@@ -40,7 +40,9 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a>&nbsp <!-- Photoshop -->
 
   <br>
+  <br>
   <h3 align="center">📧 Email 📧</h3>
 <p align="center">
   <Strong>ssorni727@gmail.com</Strong>
 </p>
+<br>
